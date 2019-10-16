@@ -9,11 +9,12 @@
 
 h1{
     color: grey;
-    width: 90%;
+    width: 100%;
+    background-color: #0fba3d;
     text-align: center;
 }
 h2{
-    width: 50%;
+    width: 100%;
     text-align: center;
 }
 
@@ -36,7 +37,7 @@ img{
 .nav li{
     display: inline;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #ddddde;
 }
 .bio{
     position: absolute;
