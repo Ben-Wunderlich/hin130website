@@ -1,5 +1,5 @@
 #indexPg{
-    background-image: linear-gradient(red, yellow);
+    background-image: linear-gradient(#cfdb48, #5a7eb8);
     height: 100%;
 }
 
@@ -9,7 +9,37 @@
 
 h1{
     color: grey;
+    width: 90%;
+    text-align: center;
 }
+h2{
+    width: 50%;
+    text-align: center;
+}
+
 html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.skills{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+ul{
+    padding: 30px;
+}
+img{
+    position: absolute;
+    top: 10%;
+    left: 40%
+}
+.nav li{
+    display: inline;
+    padding: 8px;
+    background-color: #dddddd;
+}
+.bio{
+    position: absolute;
+    width: 500px;
+    left: 60%;
 }
