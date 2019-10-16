@@ -1,0 +1,12 @@
+#indexPg{
+    background-image: linear-gradient(red, yellow);
+    height: 100%;
+}
+
+.pageColor{
+    background-color: lightblue;
+}
+
+h1{
+    color: grey;
+}
