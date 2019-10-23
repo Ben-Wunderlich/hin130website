@@ -1,16 +1,18 @@
+/*find at https://studentweb.uvic.ca/~bwunderlich/HINF130/*/
+
 #indexPg{
     background-image: linear-gradient(#cfdb48, #5a7eb8);
     height: 100%;
 }
 
 .pageColor{
-    background-color: lightblue;
+    background-color: rgb(127, 180, 199);
 }
 
 h1{
-    color: grey;
+    color: #FFFFFF;
     width: 100%;
-    background-color: #0fba3d;
+    background-color: #3e83cc;
     text-align: center;
 }
 h2{
@@ -43,4 +45,21 @@ img{
     position: absolute;
     width: 500px;
     left: 60%;
+}
+
+a:hover{
+    color:green;
+    text-shadow: 2px 2px 8px #7f32c2;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color: teal;
+}
+a:active{
+    color:red;
+}
+.currPage{
+    color: red;
 }
